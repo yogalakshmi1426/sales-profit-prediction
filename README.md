@@ -21,10 +21,6 @@ This machine learning project uses historical Superstore sales data to predict p
 - `Sales project.pdf`: exported version
 - `README.md`: project summary
 
-## 🚀 How to Run
-1. Clone the repo
-2. Open the notebook
-3. Run all cells
 
 ## 💡 Future Work
 - Try XGBoost or Random Forest
